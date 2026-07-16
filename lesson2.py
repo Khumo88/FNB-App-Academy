@@ -34,3 +34,5 @@ last_letter = password[-1]
 
 # Display the hint
 print(f"Your password hint: It starts with {first_letter.upper()} and ends with {last_letter.upper()}.")
+
+# Lesson 2 completed
